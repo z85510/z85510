@@ -15,13 +15,9 @@ Here's a sneak peek into my coding stats:
 
 [![z85510's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=z85510)](https://github.com/z85510/github-readme-stats)
 
-For those who love the dark mode:
+GitHub stats:
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=z85510&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/z85510/github-readme-stats#gh-dark-mode-only)
-
-And light mode enthusiasts:
-
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=z85510&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/z85510/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=z85510&show_icons=true&theme=dark)](https://github.com/z85510/github-readme-stats )
 
 Wondering what my top languages are? Take a look:
 
