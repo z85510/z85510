@@ -6,7 +6,7 @@ Currently, I'm expanding my skills by diving into TypeScript. 🌱
 
 Got a cool Flutter app project? I'm interested in collaborating! 👯 
 
-Feel free to reach me on Twitter [@z85510](https://twitter.com/z85510). 📫 
+Feel free to reach me on Telegram [@z85510](https://t.me/z85510). 📫 
 
 Here's a sneak peek into my coding stats:
 
