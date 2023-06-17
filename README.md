@@ -11,8 +11,3 @@ Feel free to reach me on Telegram [@z85510](https://t.me/z85510). 📫
 Here's a sneak peek into my coding stats:
  
 [![z85510's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=z85510)](https://github.com/z85510/github-readme-stats)
-
-GitHub stats:
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=z85510&show_icons=true&theme=dark)](https://github.com/z85510/github-readme-stats )
-
